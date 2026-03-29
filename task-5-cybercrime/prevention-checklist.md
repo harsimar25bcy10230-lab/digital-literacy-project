@@ -2,17 +2,17 @@
 
 - Never share OTP or passwords
 - Always verify website URLs before login
-- Avoid clicking unknown links
-- Enable two-factor authentication
-- Use strong, unique passwords
-- Do not use public Wi-Fi for banking
-- Regularly update apps and systems
+- do not click unknown links
+- turn on two-factor authentication
+- Use strong password.
+- Do not use public wifi for important things like banking shopping.
+- Regularly update apps in your phone and pc.
 - Monitor bank transactions frequently
 
 ### UPI Safety
 - Do not approve unknown payment requests
-- Never scan random QR codes
+- Never scan unknown qr codes.
 
 ### Reporting
-- Cyber Crime Portal: https://cybercrime.gov.in
-- Helpline: 1930
+- Cyber Crime Portal link is: https://cybercrime.gov.in
+- Helpline number is: 1930
