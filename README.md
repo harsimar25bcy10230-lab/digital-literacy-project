@@ -1,4 +1,4 @@
-Digital Literacy Portfolio
+Digital Literacy Portfolio project
 
 Name: HARSIMAR SINGH
 Reg No: 25bcy10230  
@@ -6,9 +6,10 @@ Reg No: 25bcy10230
 
 Project Overview
 This repository contains my Digital Literacy Portfolio created as part of CSE0001.
+it also contains the project report i made
 Tasks Completed
 Task 1: Infographic on Digital Literacy
-Task 2: Digital Portfolio Setup
+Task 2: Digital Portfolio Setup linkedin kaggle along with github
 Task 3: Coding + Google Form
 Task 4: Email Etiquette
 Task 5: Cybercrime Case Study
