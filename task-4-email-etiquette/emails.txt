@@ -1,15 +1,23 @@
+email 1: assignment request extension
 Subject: Assignment Extension Request
-Hi Professor,
-So I wanted to reach out before the deadline rather than just going quiet. last week has been difficult for me as my schedule was hectic some events came up at home that I wasn't expecting and it threw my whole schedule off i was not prepared for it.
-I am not trying to make reasons,i want to submit completed task instead of half done. Would it be possible to get 2 day extension  that would help a lot.
-Really sorry for the short notice and thanks for hearing me out.
-yours sincerely
-Sam
+Dear Professor,
+i hope this email finds you well .
+i am writing this email to request extension of deadline of my assignment which is due on 03/04/26. sue to some family emergencies i have fallen behind on schedule.
+i am commited to working hard towards this course and i will appreciate if i could submit my assignment by 6/03/26.i have already finished majority of the work and can show yiu the draft if required.
+thank you for considering my request.
+yours sincerely,
+sam singh
+25bcy10230
+eee1001
 
-Subject: Internship — Sam Singh, CS First Year
-Hi,
-I'm a first year CS student and I am looking for opportunities for internship this summer. Your organization came up and it genuinely seemed like somewhere I'd actually learn something useful .
-I am a fast learner hardworker i am still building skills . i am fluent in python ,node , javascript and i have also worked in the field of ai training models for the govt related to biometric authentication. also i am working on my platform rekated to cybersecurity tools a centralised platform. so i would love the opportunity to be a intern at your firm to learn and meet new people.
-If there's anything open or even if you're not sure yet, I'd love to just have a quick chat about it. I can send over my CV for more details.
-Thanks for reading this
-Sam Singh
+email 2: summer internship enquiry
+
+Subject: inqiry summer internship 
+sir/mam
+my name is sam singh and i am a first year cs student studying in vit bhopal university. i am writing this mail to express my interest in summer internship opportunity at software development team at your firm.
+having followed your company recent work related to new api innovation i was really impressed and i believe my background as a backend developer specializing in node,js, c++ will allows me to provide more value to your project.
+i ahve attached my resume and cover letter for your review. i would love to discuss my skills and experience with you during an interview.
+thank you for consideration.
+yours sincerely,
+sam singh
+6396827643
